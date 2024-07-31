@@ -1,5 +1,3 @@
-Claro! Vamos traduzir e organizar o conteúdo do `README.md` para o português. Vou dividir o texto em seções de acordo com o que foi fornecido.
-
 ---
 
 # ft_printf
